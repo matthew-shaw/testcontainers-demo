@@ -1,2 +1,1 @@
-# testcontainers-demo
-Testcontainers demo app
+# Testcontainers demo
